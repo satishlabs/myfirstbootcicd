@@ -8,6 +8,7 @@ public class MyfirstbootcicdApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyfirstbootcicdApplication.class, args);
+		System.out.println("Hello , Spring Boot CI/CD Pipeline...");
 	}
 
 }
